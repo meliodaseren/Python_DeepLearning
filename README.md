@@ -7,7 +7,6 @@
 * IDE
   * JetBrains PyCharm Community Edition 2017.1.3 x64
   * Jupyter Notebook 5.0.0
-  * orange 3.4.1
 * Python Packages
   * panda
   * scipy
